@@ -42,3 +42,5 @@ when doing a `gitgiraffe push`, this happens:
 5. gitgiraffe runs `git push` after it changed the times
 
 # Happy coding!
+
+And of course, happy not coding!
