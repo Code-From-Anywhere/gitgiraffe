@@ -12,6 +12,15 @@ gitgiraffe helps you getting a longer neck by stretching out your unpushed git c
 
 Instead of a `git push`, just run `gitgiraffe push`, and your git commit dates will be stretched over your last commit date and the current time, but leave out non-working hours and days.
 
+### How to push it later?
+
+That's easy. Just use `at` in order to run `gitgiraffe push` at any future time. Make sure you don't change the branch or folder location/name in the meantime!
+
+Example: run it at 6pm
+`echo "gitgiraffe push" | at 1800 today`
+
+Run at
+
 # Config
 
 ### Edit hours
