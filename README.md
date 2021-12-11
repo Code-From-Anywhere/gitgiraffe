@@ -1,3 +1,5 @@
+![Git Giraffe](./logo.png)
+
 # Look busy for your boss with this cli tool!
 
 gitgiraffe helps you getting a longer neck by stretching out your unpushed git commits over a longer period.
