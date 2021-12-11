@@ -14,12 +14,12 @@ Instead of a `git push`, just run `gitgiraffe push`, and your git commit dates w
 
 ### How to push it later?
 
-That's easy. Just use `at` in order to run `gitgiraffe push` at any future time. Make sure you don't change the branch or folder location/name in the meantime!
+That's not easy, but I think it could be possible with `at`. You could use `at` in order to run `gitgiraffe push` at any future time. Make sure you don't change the branch or folder location/name in the meantime!
 
 Example: run it at 6pm
 `echo "gitgiraffe push" | at 1800 today`
 
-Run at
+NB: Make sure to allow atrun in your mac's Privacy and Settings (see [this](https://unix.stackexchange.com/questions/478823/making-at-work-on-macos/478840#478840) for instructions)
 
 # Config
 
